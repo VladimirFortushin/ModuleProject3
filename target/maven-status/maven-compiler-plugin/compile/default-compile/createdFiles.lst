@@ -1,0 +1,5 @@
+org\example\Main.class
+org\example\dialogue\DialogueGenerator.class
+org\example\dialogue\Lines.class
+org\example\MyServlet.class
+org\example\dialogue\DialogueOrderManager.class
